@@ -1,0 +1,1 @@
+python -m debias_models.energy_model.train_single --dataset jigsaw
